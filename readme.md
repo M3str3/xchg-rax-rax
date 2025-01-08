@@ -8,7 +8,7 @@ Read the challenges [here](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 # Whats means "xchg rax, rax"?
 The phrase **"xchg rax, rax"** refers to an assembly instruction that exchanges the value of the `rax` register with itself. In practice, this operation does absolutely nothing, as the value remains unchanged. 
 
-This instruction is often used humorously to symbolize a "no-op" (no operation) or as a placeholder in low-level programming. The title of the book plays on this irony, reflecting the deep yet playful nature of assembly language exploration.
+This instruction is used humorously to symbolize a no-op. The title of the book plays on this irony. 
 
 # In progress
 I didnt finished the book yet... :(
